@@ -20,7 +20,7 @@ DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "upi_db"
 DB_USER =  "postgres"
-DB_PASSWORD = "Matrix@2026"
+DB_PASSWORD = "************"
 
 consumer = Consumer({
     "bootstrap.servers": KAFKA_BOOTSTRAP_SERVERS,
